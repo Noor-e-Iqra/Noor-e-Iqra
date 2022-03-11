@@ -13,7 +13,7 @@
 
 ## 🚀 Technologies I know
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript height="40")
 - ![React Native](https://img.shields.io/badge/-React%20Native-darkblue?style=flat&logo=react)
 - ![Eslint](https://img.shields.io/badge/-Eslint-darkblue?style=flat&logo=eslint)
 - ![HTML](https://img.shields.io/badge/-HTML-blue?style=flat&logo=html5&logoColor=white)
