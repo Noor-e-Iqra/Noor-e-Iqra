@@ -13,9 +13,9 @@
 
 ## 🚀 Technologies I know
 
--![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
--![React](https://img.shields.io/badge/-React-darkblue?style=flat&logo=react)
--![React Native](https://img.shields.io/badge/-React%20Native-darkblue?style=flat&logo=react)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+- ![React](https://img.shields.io/badge/-React-darkblue?style=flat&logo=react)
+- ![React Native](https://img.shields.io/badge/-React%20Native-darkblue?style=flat&logo=react)
 ![Next](https://img.shields.io/badge/-Next-darkblue?style=flat&logo=next.js)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-darkblue?style=flat&logo=gatsby)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-darkblue?style=flat&logo=Node.js)
