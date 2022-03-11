@@ -13,18 +13,18 @@
 
 ## 🚀 Technologies I know
 -  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30" />
--  <img src="https://img.shields.io/badge/-Java-blue?style=flat&logo=java&logoColor=white" height="30" />
+-  <img src="https://img.shields.io/badge/-Java-blue?style=flat&logo=java" height="30" />
 -  <img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" height="30" />
 -  <img src="https://img.shields.io/badge/-Eslint-darkblue?style=flat&logo=eslint" height="30" />
 -  <img src="https://img.shields.io/badge/-HTML-239120?style=flat&logo=html5&logoColor=white" height="30" />
 -  <img src="https://img.shields.io/badge/-CSS-239120?style=flat&logo=css3&logoColor=white" height="30" />
 -  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" height="30" />
--  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="30" />
+-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" height="30" />
 -  <img src="https://img.shields.io/badge/-Github%20Actions-black?style=flat&logo=github-actions&logoColor=white" height="30" />
 -  <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" height="30" />
 -  <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" height="30" />
 -  <img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visual-studio-code" height="30" />
--  <img src="https://img.shields.io/badge/-Figma-blueviolet?style=flat&logo=figma&logoColor=white" height="30" />
+-  <img src="https://img.shields.io/badge/-Figma-blueviolet?style=flat&logo=figma" height="30" />
 -  <img src="https://img.shields.io/badge/-Adobe%20Illustrator-100000?style=flat&logo=adobe-illustrator" height="30" />
 -  <img src="https://img.shields.io/badge/-Firebase-orange?style=flat&logo=firebase&logoColor=yellow" height="30" />
 
