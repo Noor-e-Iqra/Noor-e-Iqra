@@ -12,8 +12,7 @@
 - ⚡ Fun fact **I love coding!**
 
 ## 🚀 Technologies I know
-- ![JavaScript<img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" height="50" />
-- ![JavaScript]<img src="https://img.shields.io/badge/javascript-%20brightgreen" height="50" />
+-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" height="30" />
 - ![React Native](https://img.shields.io/badge/-React%20Native-darkblue?style=flat&logo=react)
 - ![Eslint](https://img.shields.io/badge/-Eslint-darkblue?style=flat&logo=eslint)
 - ![HTML](https://img.shields.io/badge/-HTML-blue?style=flat&logo=html5&logoColor=white)
