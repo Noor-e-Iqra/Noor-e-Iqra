@@ -13,7 +13,7 @@
 
 ## 🚀 Technologies I know
 -  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30" />
--  <img src="https://img.shields.io/badge/-Java-blue?style=flat&logo=java" height="30" />
+-  <img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java" height="30" />
 -  <img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" height="30" />
 -  <img src="https://img.shields.io/badge/-Eslint-darkblue?style=flat&logo=eslint" height="30" />
 -  <img src="https://img.shields.io/badge/-HTML-239120?style=flat&logo=html5&logoColor=white" height="30" />
