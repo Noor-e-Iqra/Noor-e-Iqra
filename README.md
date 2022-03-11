@@ -19,13 +19,11 @@
 - Deployment (Firebase, Netlify)
 <br/>
 
-
 ## 📊 GitHub Stats
 
 <a href="https://github.com/batuhanyilmazzz">
   <img src="https://github-readme-stats.vercel.app/api?username=Noor-e-Iqra&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="Noor-e-Iqra"/>
 </a>
-
 
 ## Connect with me:
 <p align="left">
