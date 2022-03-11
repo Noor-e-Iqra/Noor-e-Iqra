@@ -13,22 +13,19 @@
 
 ## 🚀 Technologies I know
 -  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" height="30" />
-- ![React Native](https://img.shields.io/badge/-React%20Native-darkblue?style=flat&logo=react)
-- ![Eslint](https://img.shields.io/badge/-Eslint-darkblue?style=flat&logo=eslint)
-- ![HTML](https://img.shields.io/badge/-HTML-blue?style=flat&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue?style=flat&logo=bootstrap)
-- ![Github Actions](https://img.shields.io/badge/-Github%20Actions-black?style=flat&logo=github-actions&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-- ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-- ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-yellowgreen?style=flat&logo=visual-studio-code)
-- ![Figma](https://img.shields.io/badge/-Figma-blueviolet?style=flat&logo=figma&logoColor=white)
-- ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20XD-blueviolet?style=flat&logo=adobe-illustrator&logoColor=white)
+-  <img src="https://img.shields.io/badge/-React%20Native-darkblue?style=flat&logo=react" height="30" />
+-  <img src="https://img.shields.io/badge/-Eslint-darkblue?style=flat&logo=eslint" height="30" />
+-  <img src="https://img.shields.io/badge/-HTML-blue?style=flat&logo=html&logoColor=white" height="30" />
+-  <img src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css" height="30" />
+-  <img src="https://img.shields.io/badge/-Bootstrap-blue?style=flat&logo=bootstrap" height="30" />
+-  <img src="https://img.shields.io/badge/-Github%20Actions-black?style=flat&logo=github-actions&logoColor=white" height="30" />
+-  <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" height="30" />
+-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" height="30" />
+-  <img src="https://img.shields.io/badge/-VS%20Code-yellowgreen?style=flat&logo=visual-studio-code" height="30" />
+-  <img src="https://img.shields.io/badge/-Figma-blueviolet?style=flat&logo=figma&logoColor=white" height="30" />
+-  <img src="https://img.shields.io/badge/-Adobe%20Illustrator-blueviolet?style=flat&logo=adobe-illustrator&logoColor=whitet" height="30" />
+-  <img src="https://img.shields.io/badge/-Firebase-orange?style=flat&logo=firebase&logoColor=yellow" height="30" />
 
-- HTML, CSS, Javascript
-- Databases (Firebase)
-- Design (Figma, Illustrator)
-- Deployment (Firebase, Netlify)
 
 ## 📊 GitHub Stats
 
