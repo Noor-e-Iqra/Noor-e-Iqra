@@ -27,6 +27,7 @@
 -  <img src="https://img.shields.io/badge/-Figma-blueviolet?style=flat&logo=figma" height="30" />
 -  <img src="https://img.shields.io/badge/-Adobe%20Illustrator-100000?style=flat&logo=adobe-illustrator" height="30" />
 -  <img src="https://img.shields.io/badge/-Firebase-orange?style=flat&logo=firebase&logoColor=yellow" height="30" />
+-  <img src="https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux&logoColor=white" height="30" />
 
 
 ## 📊 GitHub Stats
