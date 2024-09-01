@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/76250259/202918462-0991735b-a998-475c-b492-095fe9f60f2f.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/user-attachments/assets/505d4f17-23fb-48ca-94f4-8c1da64ff6ad.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Noor-e-Iqra</h1>
 <h3 align="center">I'm a dedicated React Native Developer from Pakistan.</h3>
